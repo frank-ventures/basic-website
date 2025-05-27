@@ -55,16 +55,16 @@ nav a:hover {
 }
 
 .image-tomatoes {
-  background-image: url(/assets/tomatoes01.jpg);
+  background-image: url(./assets/tomatoes01.jpg);
 }
 
 .image-timers {
   background-color: #000;
-  background-image: url(/assets/tomatotimer01.png);
+  background-image: url(./assets/tomatotimer01.png);
 }
 
 .image-totebags {
-  background-image: url(/assets/toma-totebag01.webp);
+  background-image: url(./assets/toma-totebag01.webp);
 }
 
 .post-meta {
